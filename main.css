@@ -137,6 +137,11 @@ audio {
   padding-bottom: 25px;
 }
 
+video {
+  padding-bottom: 60px;
+
+}
+
 p a {
   margin-bottom: 50px;
 }
@@ -169,5 +174,5 @@ a:active {
 
 #footer {
   margin-top: 67px;
-  
+
 }
