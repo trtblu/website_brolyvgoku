@@ -6,7 +6,7 @@
  text-align:center;
 }
 
-/* 1ALERT w3schools.com/howto/howto_js_alert.asp */
+/* ALERT TAKEN FROM w3schools.com/howto/howto_js_alert.asp */
 /* The alert message box */
 .alert {
  padding: 20px;
@@ -31,7 +31,7 @@
 .closebtn:hover {
  color: white;
 }
-/* 1ALERT w3schools.com/howto/howto_js_alert.asp */
+/* ALERT TAKEN FROM w3schools.com/howto/howto_js_alert.asp */
 
 body {
  color: ##1d3030;
