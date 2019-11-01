@@ -104,6 +104,30 @@ p {
  margin: 50px;
 }
 
+ul {
+ background-image: url(image/lose.png);
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-position: center;
+ border-style: outset;
+ border-width:5px;
+}
+
+ol {
+ background-image: url(image/win.png);
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-position: center;
+ border-style: outset;
+ border-width:5px;
+}
+
+li {
+ Margin: 100px;
+ list-style: none;
+ padding: 150px 1px;
+}
+
 section {
  padding-top: 100px;
 }
